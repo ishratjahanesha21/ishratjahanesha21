@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishratjahanesha21
 - 👀 I’m interested in Programming, Travelling 
-- 🌱 I’m currently learning Next Js , Redux tool kit , AI
+- 🌱 I’m currently learning Next Js ,Python,Database Design, Nestjs, Prompt Engineering.
 - 💞️ I’m looking to collaborate on Tech community
 - 📫 How to reach me LinkedIn FaceBook,Insta.
 - 😄 Pronouns: Her /Developer/ Coder
